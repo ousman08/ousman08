@@ -19,9 +19,6 @@ Soy un apasionado de la tecnología, en constante aprendizaje y comprometido con
 > *“Después de la dificultad viene la facilidad.”* (Corán 94:6)  
 > Cada desafío es una oportunidad para aprender y crecer.
 
-> *“Quien sigue un camino en busca del conocimiento, Allah le facilitará el camino hacia el Paraíso.”* (Hadiz)  
-> Mis valores y mi fe me impulsan a trabajar con dedicación, siempre buscando la excelencia en cada línea de código.
-
 ---
 
 ## 📫 Contáctame
