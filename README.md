@@ -1,7 +1,8 @@
-# 👋 ¡Hola, soy Ousman Krubally!
+# 👋 السَّلَامُ عَلَيْكُمْ
+
 **Desarrollador Web Full-Stack | JavaScript | React | Node.js**
 
-Soy un apasionado de la tecnología, en constante aprendizaje y comprometido con mis valores. Aunque mi experiencia práctica aún se está consolidando, cada reto me impulsa a superarme. Creo firmemente en que *"Después de la dificultad viene la facilidad"* (Corán 94:6) y en la importancia de la perseverancia para alcanzar el éxito.
+Soy un apasionado de la tecnología, en constante aprendizaje y comprometido con mis valores. Aunque mi experiencia práctica aún se está consolidando, cada reto me impulsa a superarme. Creo firmemente en que Después de la dificultad viene la facilidad y en la importancia de la perseverancia para alcanzar el éxito.
 
 ---
 
@@ -12,11 +13,8 @@ Soy un apasionado de la tecnología, en constante aprendizaje y comprometido con
 - **Bases de datos:** MongoDB, SQL
 - **Otros:** JavaScript, Python, SEO, Integración de APIs, Git
 
----
+--- 
 
-## 💡 Inspiración y Motivación
-
-> *“Después de la dificultad viene la facilidad.”* (Corán 94:6)  
 > Cada desafío es una oportunidad para aprender y crecer.
 
 ---
@@ -31,4 +29,4 @@ Soy un apasionado de la tecnología, en constante aprendizaje y comprometido con
 
 ## 🚀 En búsqueda de oportunidades
 
-Estoy abierto a colaborar en proyectos innovadores y a crecer en el mundo del desarrollo web. Si buscas a alguien comprometido, con ganas de aprender y aportar, ¡conecta conmigo y construyamos juntos el futuro de la tecnología!
+Estoy abierto a colaborar en proyectos innovadores y a crecer en el mundo del desarrollo web. Si buscas a alguien comprometido, con ganas de aprender y aportar, ¡contacta conmigo y construyamos juntos el futuro de la tecnología!
