@@ -1,8 +1,9 @@
-# 👋 السَّلَامُ عَلَيْكُمْ
+# 👋 السَّلَامُ عَلَيْكُمْعَلَيْكُمْ 👋🏾
 
-**Desarrollador Web Full-Stack | JavaScript | React | Node.js**
+Soy Ousman, 
 
-Soy un apasionado de la tecnología, en constante aprendizaje y comprometido con mis valores. Aunque mi experiencia práctica aún se está consolidando, cada reto me impulsa a superarme. Creo firmemente en que Después de la dificultad viene la facilidad y en la importancia de la perseverancia para alcanzar el éxito.
+Amo el café ☕, el código 💻 y las buenas vibras 🌙.
+Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que todo funcione (inshAllah 😂).
 
 ---
 
