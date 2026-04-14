@@ -3,7 +3,7 @@
 Soy Ousman.
 
 Amo el café ☕, el código 💻 y las buenas vibras 🌙.
-Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que todo funcione (Alhamdullah ).
+Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que todo funcione (Alhamdulillah por todo, pase lo que pase siempre positivo).
 
 ---
 
