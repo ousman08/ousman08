@@ -16,7 +16,7 @@ Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que tod
 
 > Cada desafío es una oportunidad para aprender y crecer.
  
---
+---
 
 ## 📫 Contáctame
 
