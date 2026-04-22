@@ -1,10 +1,8 @@
-# 👋 السَّلَامُ عَلَيْكُمْعَلَيْكُمْ 👋🏾
-
+# 👋🏾السَّلَامُ عَلَيْكُمْعَلَيْكُمْ
 Soy Ousman Krubally
 
 Amo el café ☕, el código 💻 y las buenas vibras 🌙.
 Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que todo funcione (Alhamdulillah).
-
 ---
 
 ## 💻 Habilidades Técnicas
@@ -17,8 +15,8 @@ Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que tod
 --- 
 
 > Cada desafío es una oportunidad para aprender y crecer.
-
----
+ 
+--
 
 ## 📫 Contáctame
 
@@ -28,6 +26,4 @@ Estoy aprendiendo cada día, mezclando JavaScript, fe y disciplina hasta que tod
 
 ---
 
-## 🚀 En búsqueda de oportunidades
-
-Estoy abierto a colaborar en proyectos innovadores y a crecer en el mundo del desarrollo web. Si buscas a alguien comprometido, con ganas de aprender y aportar, ¡contacta conmigo y construyamos juntos el futuro de la tecnología!
+Estoy abierto a colaborar en proyectos innovadores y a crecer en el mundo del desarrollo.
